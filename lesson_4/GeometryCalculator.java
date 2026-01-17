@@ -1,3 +1,5 @@
+package lesson_4;
+
 import java.lang.Math;
 
 enum Color {

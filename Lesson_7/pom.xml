@@ -17,7 +17,12 @@
     </properties>
     
     <dependencies>
-        <!-- Базовые зависимости для обеих веток -->
+        <dependency>
+            <groupId>org.testng</groupId>
+            <artifactId>testng</artifactId>
+            <version>${testng.version}</version>
+            <scope>test</scope>
+        </dependency>
     </dependencies>
     
     <build>

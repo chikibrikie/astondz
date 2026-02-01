@@ -1,5 +1,6 @@
 package com.lesson7.testng;
 
+import com.lesson7.TriangleArea;
 import org.testng.annotations.Test;
 import static org.testng.Assert.*;
 

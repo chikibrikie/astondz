@@ -1,4 +1,3 @@
-package Lesson_5;
 
 class MyArraySizeEception extends Exception {
     public MyArraySizeEception(String message) {

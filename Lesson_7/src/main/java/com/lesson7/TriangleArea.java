@@ -1,4 +1,4 @@
-package main.java.com.lesson7;
+package com.lesson7;
 
 public class TriangleArea {
     public static double calculateArea(double base, double height) {

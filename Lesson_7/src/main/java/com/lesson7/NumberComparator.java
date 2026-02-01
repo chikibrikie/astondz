@@ -1,4 +1,4 @@
-package main.java.com.lesson7;
+package com.lesson7;
 
 public class NumberComparator {
     public static String compare(int a, int b) {

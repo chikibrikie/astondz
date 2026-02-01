@@ -1,4 +1,4 @@
-package main.java.com.lesson7;
+package com.lesson7;
 
 public class FactorialCalculator {
     public static long calculateFactorial(int n) {

@@ -1,4 +1,4 @@
-package main.java.com.lesson7;
+package com.lesson7;
 
 public class ArithmeticOperations {
     public static int add(int a, int b) {

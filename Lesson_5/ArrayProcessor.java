@@ -1,4 +1,3 @@
-package Lesson_5;
 
 import Lesson_5.exceptions.MyArrayDataException;
 import Lesson_5.exceptions.MyArraySizeException;
